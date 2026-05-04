@@ -8,7 +8,7 @@ export default function HomeView() {
         This site contains a database with songs that I listen to. It shows the title, artist, album, key, and length.
       </p>
       <p style={{ color: 'var(--muted)' }}>
-        Replace this copy in <code>src/pages/HomeView.tsx</code>.
+        This site was made for educational purposes
       </p>
     </div>
   );
