@@ -127,7 +127,7 @@ export default function SongsListView({ user }: Props) {
             */}
             <h3>{p.title}</h3>
             <p>{p.artist}</p>
-            <p>{p.album}</p>
+            <p>Album: {p.album}</p>
             <p>Key: {p.key}</p>
             <p>Length: {p.length}</p>
             <p>Song #{p.id}</p>
